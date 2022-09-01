@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kokakerts" target="blank"><img src="https://img.shields.io/twitter/follow/kokakerts?logo=twitter&style=for-the-badge" alt="kokakerts" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Docker, AWS, Kubernetes, Vue.Js, celery, redis, sqlite3, postgress, git, bash, Systemd, wsgi (gunicorn/uwsgi), Nginx,**
+- 🌱 I’m currently learning ** AWS, React, git, bash,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kokakerze](https://github.com/kokakerze)
 
