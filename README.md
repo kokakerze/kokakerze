@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kostiantyn Kertsman</h1>
-<h3 align="center">Python developer in the beginning of this great way</h3>
+<h3 align="center">AWS Developer with 1+ years expierence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokakerze&label=Profile%20views&color=0e75b6&style=flat" alt="kokakerze" /> </p>
 
