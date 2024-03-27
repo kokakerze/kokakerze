@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kostiantyn Kertsman</h1>
-<h3 align="center">AWS Developer with 1+ years expierence</h3>
+<h3 align="center">AWS Developer with 3+ years expierence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokakerze&label=Profile%20views&color=0e75b6&style=flat" alt="kokakerze" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kokakerts" target="blank"><img src="https://img.shields.io/twitter/follow/kokakerts?logo=twitter&style=for-the-badge" alt="kokakerts" /></a> </p>
 
-- 🌱 I’m currently learning ** AWS, React, git, bash,**
+- 🌱 I’m currently working with ** AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kokakerze](https://github.com/kokakerze)
+- 👨‍💻 All of my projects are available at AWS CodeCommit)
 
 - 📫 How to reach me **mr.kertsman@gmail.com**
 
